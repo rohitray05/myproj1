@@ -14,3 +14,9 @@ components:these are directly associated with template html ,all the basic funct
 directives:here the selectors are written in the square brackets and directly used in the template.
 modules : a complete package consist of component , html css services directives.
 services: these are shared piece of code whose methods are or can be shared among various components.
+
+
+#about the project
+the html of app component solvess the marcopolo problem 
+
+the seven segment parse the characters which are present in asset so it fetches from there and parse it the output can be seen the console .
