@@ -11,7 +11,7 @@ export class SevenSegmentComponent implements OnInit {
   
   public stringData:string;
   public nextLine:number=0;
-  public finalOutput="";
+  public finalOutput="";/* This contains all the data */
   public singleNumber:number=0;
   constructor(private serv: segmentService) { }
 
